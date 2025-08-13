@@ -1,0 +1,267 @@
+[
+  {
+    "name": "Udyogini Scheme",
+    "description": "Facilitates collateral-free or subsidized loans to women entrepreneurs, with focus on micro and small businesses including rural enterprises.",
+    "eligibility": {
+      "gender": "Female",
+      "age": { "min": 18, "max": 55 },
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Trade", "Food Service", "Agriculture Allied"],
+      "businessTypes": ["MSME", "Small Business", "Sole Proprietorship", "Partnership", "Startup"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 10000, "max": 300000 }
+    },
+    "keyEligibility": ["Women entrepreneurs", "Micro/small businesses"],
+    "applyLink": "https://udyamimitra.in/"
+  },
+  {
+    "name": "Stand-Up India",
+    "description": "Bank loans for women (and SC/ST) for setting up new (greenfield) enterprises in manufacturing, services, or trading.",
+    "eligibility": {
+      "gender": ["Female"],
+      "age": { "min": 18 },
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Trade"],
+      "businessTypes": ["MSME", "Startup", "Private Limited", "LLP", "Partnership", "Sole Proprietorship"],
+      "yearsInBusiness": { "min": 0, "max": 1 },
+      "loanAmount": { "min": 1000000, "max": 10000000 }
+    },
+    "keyEligibility": ["Women-led greenfield enterprise", "Loan ₹10L–₹1Cr"],
+    "applyLink": "https://www.standupmitra.in/"
+  },
+  {
+    "name": "MUDRA (for Women)",
+    "description": "Micro-credit under Shishu/Kishor/Tarun for women-owned micro enterprises across non-farm sectors.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Trade", "Food Service", "Technology"],
+      "businessTypes": ["MSME", "Small Business", "Sole Proprietorship", "Partnership", "Startup"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 10000, "max": 1000000 }
+    },
+    "keyEligibility": ["Women micro units", "Shishu/Kishor/Tarun"],
+    "applyLink": "https://www.mudra.org.in/"
+  },
+  {
+    "name": "Annapurna Scheme",
+    "description": "Working capital loans for women entrepreneurs in food catering/food service businesses.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Food Service"],
+      "businessTypes": ["Small Business", "Sole Proprietorship", "MSME"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 10000, "max": 50000 }
+    },
+    "keyEligibility": ["Food service businesses", "Women entrepreneurs"],
+    "applyLink": "https://www.sidbi.in/en"
+  },
+  {
+    "name": "Mahila Udyam Nidhi (SIDBI)",
+    "description": "Financial assistance to women for setting up new projects in small scale sector and modernization/expansion.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Trade", "Technology"],
+      "businessTypes": ["MSME", "Small Business", "Startup"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 50000, "max": 1000000 }
+    },
+    "keyEligibility": ["Women in MSME sector"],
+    "applyLink": "https://www.sidbi.in/en"
+  },
+  {
+    "name": "Dena Shakti Scheme",
+    "description": "Concessional rate loans for women in agriculture, manufacturing, micro & small enterprises, retail, education, housing.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Agriculture", "Manufacturing", "Services", "Retail", "Education", "Housing"],
+      "businessTypes": ["MSME", "Small Business", "Sole Proprietorship", "Partnership"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 10000, "max": 2000000 }
+    },
+    "keyEligibility": ["Women borrowers", "Concession in interest"],
+    "applyLink": "https://www.bankofbaroda.in/"
+  },
+  {
+    "name": "TREAD (Trade Related Entrepreneurship Assistance & Development)",
+    "description": "Assistance for training, counseling and grants to NGOs for promoting women entrepreneurship.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Trade", "Agriculture Allied", "Handicrafts"],
+      "businessTypes": ["MSME", "Small Business", "Self-Help Group", "NGO Beneficiary"],
+      "yearsInBusiness": { "min": 0 }
+    },
+    "keyEligibility": ["Women beneficiaries via NGOs", "Capacity building"],
+    "applyLink": "https://msme.gov.in/"
+  },
+  {
+    "name": "PMEGP (Women Beneficiaries)",
+    "description": "Credit-linked subsidy program for setting up micro enterprises, with special margin/subsidy benefits for women.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Trade", "Handicrafts", "Food Service"],
+      "businessTypes": ["MSME", "Small Business", "Sole Proprietorship", "Partnership", "Self-Help Group"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 50000, "max": 2500000 }
+    },
+    "keyEligibility": ["New micro enterprises", "Women beneficiary"],
+    "applyLink": "https://www.kviconline.gov.in/pmegpeportal/"
+  },
+  {
+    "name": "Stree Shakti Package",
+    "description": "Concessions for women-owned enterprises with majority ownership and participation.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Trade", "Retail", "Food Service"],
+      "businessTypes": ["MSME", "Small Business", "Sole Proprietorship", "Partnership", "Startup"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 10000, "max": 500000 }
+    },
+    "keyEligibility": ["Women majority ownership"],
+    "applyLink": "https://sbi.co.in/"
+  },
+  {
+    "name": "Kerala Women Entrepreneurship Mission",
+    "description": "State-level support and credit facilitation for women entrepreneurs in Kerala.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Kerala"],
+      "sectors": ["Manufacturing", "Services", "Trade", "Food Service", "Tourism"],
+      "businessTypes": ["MSME", "Small Business", "Self-Help Group"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 10000, "max": 1000000 }
+    },
+    "keyEligibility": ["Women entrepreneurs in Kerala"],
+    "applyLink": "https://www.kerala.gov.in/"
+  },
+  {
+    "name": "Cent Kalyani Scheme (Central Bank of India)",
+    "description": "Collateral-free working capital/term loans for women engaged in MSMEs, retail trade, agriculture and allied activities.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Retail", "Agriculture Allied", "Trade"],
+      "businessTypes": ["MSME", "Small Business", "Sole Proprietorship", "Partnership", "Startup"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 10000, "max": 10000000 }
+    },
+    "keyEligibility": ["Women-owned MSMEs", "Collateral-free"],
+    "applyLink": "https://www.centralbankofindia.co.in/en"
+  },
+  {
+    "name": "Orient Mahila Vikas Yojana (PNB)",
+    "description": "Support to women entrepreneurs with concessions and relaxed collateral norms; for manufacturing, services and trade.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Trade"],
+      "businessTypes": ["MSME", "Small Business", "Sole Proprietorship", "Partnership"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 50000, "max": 1000000 }
+    },
+    "keyEligibility": ["Women majority ownership", "Concessional terms"],
+    "applyLink": "https://www.pnbindia.in/"
+  },
+  {
+    "name": "Mahila Coir Yojana",
+    "description": "Subsidy-linked assistance for rural women to set up coir units; focuses on coir sector machinery and working capital.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Handicrafts"],
+      "businessTypes": ["MSME", "Small Business", "Self-Help Group", "Sole Proprietorship"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 10000, "max": 500000 }
+    },
+    "keyEligibility": ["Women in coir sector", "Subsidy support"],
+    "applyLink": "https://coirboard.gov.in/"
+  },
+  {
+    "name": "Bharatiya Mahila Bank Business Loan (via SBI)",
+    "description": "Business loans for women entrepreneurs across sectors with concessions; administered post-merger via SBI network.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Retail", "Trade", "Food Service", "Technology"],
+      "businessTypes": ["MSME", "Startup", "Small Business", "Private Limited", "LLP", "Partnership"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 100000, "max": 20000000 }
+    },
+    "keyEligibility": ["Women-led enterprise", "Concessional rate/processing"],
+    "applyLink": "https://sbi.co.in/"
+  },
+  {
+    "name": "UCO Mahila Pragati Yojana",
+    "description": "Financing for women entrepreneurs for new and existing units with interest concessions.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Retail", "Trade"],
+      "businessTypes": ["MSME", "Small Business", "Sole Proprietorship", "Partnership"],
+      "yearsInBusiness": { "min": 0 },
+      "loanAmount": { "min": 50000, "max": 2000000 }
+    },
+    "keyEligibility": ["Women borrowers", "Interest concession"],
+    "applyLink": "https://www.ucobank.com/"
+  },
+  {
+    "name": "Sequoia Spark Fellowship (Equity-free grant)",
+    "description": "Equity-free grant and mentorship program for women founders building technology startups in India and SEA.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Technology", "Healthcare", "FinTech", "Consumer", "SaaS"],
+      "businessTypes": ["Startup", "Private Limited", "LLP"],
+      "yearsInBusiness": { "min": 0 }
+    },
+    "keyEligibility": ["Women founder (tech)", "Equity-free grant"],
+    "applyLink": "https://www.sequoiacap.com/india/spark/"
+  },
+  {
+    "name": "Google for Startups Accelerator: Women Founders",
+    "description": "Equity-free support program for women-led technology startups offering mentorship, credits and product support.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Technology", "HealthTech", "EdTech", "FinTech", "SaaS"],
+      "businessTypes": ["Startup", "Private Limited", "LLP"],
+      "yearsInBusiness": { "min": 0 }
+    },
+    "keyEligibility": ["Women-led startup", "Acceleration & credits"],
+    "applyLink": "https://startup.google.com/accelerator/"
+  },
+  {
+    "name": "Villgro Women in Innovation Fund",
+    "description": "Seed funding and incubation support for women-led impact startups in agriculture, health and climate action.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Agriculture", "Healthcare", "Climate", "CleanTech"],
+      "businessTypes": ["Startup", "Social Enterprise", "Private Limited", "LLP"],
+      "yearsInBusiness": { "min": 0 }
+    },
+    "keyEligibility": ["Women-led impact startups", "Seed + incubation"],
+    "applyLink": "https://villgro.org/"
+  },
+  {
+    "name": "AIC Atal Incubation Centres (Women-focused cohorts)",
+    "description": "Incubation, grants and market access via Atal Innovation Mission’s AIC network; periodic women-focused cohorts.",
+    "eligibility": {
+      "gender": "Female",
+      "locations": ["Pan-India"],
+      "sectors": ["Manufacturing", "Services", "Technology", "Healthcare", "Agriculture"],
+      "businessTypes": ["Startup", "Private Limited", "LLP"],
+      "yearsInBusiness": { "min": 0 }
+    },
+    "keyEligibility": ["Women-led startup", "Incubation + grants (cohort-based)"],
+    "applyLink": "https://aim.gov.in/"
+  }
+]
+
+
